@@ -1,0 +1,54 @@
+/* Dafult css */
+.container {
+  margin-bottom: 50px;
+  border-radius: 10px;
+}
+.bg-color {
+  background-color: #f8f9fa;
+}
+.button-style {
+  color: #fff;
+  background-color: #000;
+  border: none;
+  border-radius: 10px;
+  padding: 8px;
+}
+/* start navigation section */
+.menu-bar {
+  color: #707070;
+  font-weight: 500;
+}
+.mackbook {
+  background-image: url(images/bg-2.png);
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-size: 150px;
+}
+.carousel-bg {
+  background-image: url(images/bg-1.png);
+  background-repeat: no-repeat;
+  background-size: 60px;
+  background-position: center center;
+}
+.carousel-text {
+  width: 400px;
+  /* padding-top: 50px; */
+  color: #1f1f1f;
+}
+
+/* end navigation section */
+
+/* Start Card section */
+.card {
+  border: none;
+  background-color: #f8f9fa;
+  box-shadow: 10px 3px 15px #666;
+}
+.card img {
+  border-radius: 15px;
+}
+.card-inner {
+  width: 285px;
+  text-align: center;
+}
+/* End Card section */
