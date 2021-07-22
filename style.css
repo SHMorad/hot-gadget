@@ -52,3 +52,34 @@
   text-align: center;
 }
 /* End Card section */
+
+/* category-section {
+  margin-bottom: 80px;
+}
+
+.title-pad {
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 20px;
+}
+
+.categories-border {
+  border-bottom: 10px solid ;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.category-item {
+  padding: 20px 20px;
+} */
+/* Start Categories section */
+.categories-border {
+  border-bottom: 10px solid #ffbb24;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.category-item {
+  padding: 20px 20px;
+}
+
+/* End Categories section */
